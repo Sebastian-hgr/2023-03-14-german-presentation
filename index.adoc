@@ -1,0 +1,70 @@
+= Rhetorik
+Hager Sebastian
+1.0, 2023-03-14
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+
+== Übersicht
+
+* Vorwort
+* Schwarze Rhetorik
+* Beispiele
+* Rede
+
+=== Vorwort
+
+* distanzierung von jeglichen politischen Aussagen
+
+== Schwarze Rhetorik
+
+*  Verwendung von Angst, Hass und Vorurteilen
+* Beispiel: angeblichen "jüdischen Weltverschwörung"
+* aggressive und beleidigende Sprache
+
+[.notes]
+--
+* Emotionen
+* Hass auf Minderheiten um ihre Anhänger zu mobilisieren
+* Gegner zu diskreditieren und zu demütigen
+* politischen Gegner "Verräter" und "Volksfeinde"
+--
+
+== Beispiele
+
+* NSDAP (Nationalsozialistische Deutsche Arbeiterpartei)
+* Josef Stalin (1878-1953)
+* Benito Mussolini (1883-1945)
+
+[.notes]
+--
+* Mussolini Vorbild für Hilter und Stalin
+
+--
+
+== Rede
+
+
+* Krupp Farbik in Essen, 1935
+* https://youtu.be/FJ3N_2r6R-o[hier zur Rede]
+
+=== Merkmale
+
+* hektische Handbewegungen
+* aggressive Sprache
+* Vergleich, Publikum mit Redner
+* Publikum zum Nachdenken Anregen
+* "Tritt für mich ein so wie ich für dich eingetreten bin"
+
+[.notes]
+----
+----
+
+== Danke für Ihre Aufmerksamkeit
+
+
+[%notitle]
+== KBC
+
+image::images/kbc-logo.png[background, size=cover]
+
